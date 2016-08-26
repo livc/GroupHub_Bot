@@ -33,7 +33,7 @@ GroupHub交流群：[GroupHub_Chat](https://telegram.me/GroupHub_Chat)
 
 - 非超级群组（也就是没有@xxx 链接的群组）需要提交为markdown格式的编码，即 \[群组名\]\(邀请链接\)，如
                                                
-> \[V2EX后花园\]\(https://telegram.me/joinchat/Bg3MFjv5FgYrWI0WqHDo8Q\)
+> \[V2EX后花园\]\(https://telegram.me/joinchat/Bg3MFjv5FgYrWI0WqHDo8Q)
 > 编码后为
 > W1YyRVjlkI7oirHlm61dKGh0dHBzOi8vdGVsZWdyYW0ubWUvam9pbmNoYXQvQmczTUZqdjVGZ1lyV0kwV3FIRG84USk=
 > 于是添加
@@ -41,7 +41,7 @@ GroupHub交流群：[GroupHub_Chat](https://telegram.me/GroupHub_Chat)
                                                
 ## BUG提交、功能建议
 
-请到[Issues](https://github.com/livc/GroupHub_Bot/issues)页面反馈。
+请到 [Issues](https://github.com/livc/GroupHub_Bot/issues) 页面反馈。
 
 ----------
 新功能持续开发中……
