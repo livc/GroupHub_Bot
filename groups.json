@@ -1,5 +1,15 @@
 {
-  "ACG": [],
+  "ACG": [
+    {
+	  "TEXT": "IOS4gOi1t+adpeeOqeeLvOS6uiBAY253b2xm"
+	},
+	{
+	  "TEXT": "VU5P576k77yBIEBwbGF5dW5v"
+	},
+	{
+	  "TEXT": "W0FDR2VyIOWKqOa8q+a4uOaIj+eahOiuqOiuuuW5s+WPsF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9CejAzU0QtankwaldZR0ViUGRjekl3KQ=="
+	}
+  ],
   "软件": [
     {
       "TEXT": "V29yZFByZXNz56uZ6ZW/5Lqk5rWB576kIEB3b3JkcHJlc3NfY2hpbmE="
@@ -11,7 +21,10 @@
   "科学上网": [
     {
       "TEXT": "W3NoYWRvd3NvY2tzXShodHRwczovL3RlbGVncmFtLm1lL2pvaW5jaGF0L0ExbHh6RHV2Y2lvVHRpYzg0YzEydlEp"
-    }
+    },
+	{
+	  "TEXT": "U2hhZG93c29ja3NSIEBzc3JjaGF0"
+	}
   ],
   "linux": [],
   "社区": [
@@ -19,11 +32,18 @@
       "TEXT": "W1YyRVjlkI7oirHlm61dKGh0dHBzOi8vdGVsZWdyYW0ubWUvam9pbmNoYXQvQmczTUZqdjVGZ1lyV0kwV3FIRG84USk="
     }
   ],
-  "Geek": [],
+  "Geek": [
+  	{
+	  "TEXT": "6L+Z5piv5LiA5LiqbmV4dXPnlKjmiLflu7rnmoRhbmRyb2lk5pCe5py66Zey6IGK5omv5reh576kIEBuZXh1c2Rldg=="
+	}
+  ],
   "编程": [
     {
       "TEXT": "R29sYW5nIEBHb2xhbmdDTg=="
-    }
+    },
+	{
+	  "TEXT": "W+eul+azleernui1m+iuqOiuuu+8iCBBQ01lciAvIE9JZXIg77yJXShodHRwczovL3RlbGVncmFtLm1lL2pvaW5jaGF0L0ItNUg2a0FxRV9oekRPV3ozbTdzdlEp"
+	}
   ],
   "城市": [],
   "书影音": [
