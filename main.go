@@ -87,9 +87,15 @@ func messages() {
 		log.Printf("Received a message from %s with the text: %s\n", message.Sender.Username, message.Text)
 		switch message.Text {
 			case "/start":
-				bot.SendMessage(message.Chat, "/groups 查询群组\n" +
-											  "@wordpress\n" +
-											  "[bd](http://baidu.com)\n", nil)
+				sta :=  "GroupHub致力于收录tg中文圈优质群组。\n"+
+						"项目地址: https://github.com/livc/GroupHub_Bot\n\n"+
+						"Bot: @GroupHub_bot\n"+
+						"广播站: @GroupHub\n"+
+						"交流群: @GroupHub_Chat\n"+
+						"群组收录更新: @livc95 或 https://github.com/livc/GroupHub_Bot\n"+
+						"BUG提交/功能建议: https://github.com/livc/GroupHub_Bot/issues\n\n"+
+						"/groups 查询群组"
+				bot.SendMessage(message.Chat, sta, nil)
 			case "/groups":
 				bot.SendMessage(message.Chat, "请选择分类：", &telebot.SendOptions{
 							ReplyMarkup: telebot.ReplyMarkup{
