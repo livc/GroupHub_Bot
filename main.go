@@ -149,7 +149,8 @@ func deal(message telebot.Message, js *simplejson.Json) {
 		}
 		decodedT, err := base64.StdEncoding.DecodeString(text)
 		text = string(decodedT)
-		text = strings.Replace(text, "_", "\\_", -1)    //solve the confilc of markdown "_"
+//		text = strings.Replace(text, "_", "\\_", -1)    //solve the confilc of markdown "_"
+//		文本中带有下划线的需手动在下划线前面加'\'解析 部分群组邀请链接中也含有下划线导致无法进行替换
 		all = all+"\n"+text
 		i++
 	}
