@@ -132,7 +132,7 @@ func deal(message telebot.Message, js *simplejson.Json) {
 		all = all+"\n"+text
 		i++
 	}
-	log.Println(all)
+//	log.Println(all)
 	bot.SendMessage(message.Chat, all, &telebot.SendOptions{ParseMode:"Markdown"})
 }
 
