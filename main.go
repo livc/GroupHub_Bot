@@ -72,17 +72,17 @@ func startInline() {
 
 func messages() {
 	//read groups information
-	resp, err := http.Get("https://raw.githubusercontent.com/livc/GroupHub_Bot/master/groups.json")
-	if err != nil {
-		log.Fatalln(err)
-	}
-	js, err := simplejson.NewFromReader(resp.Body)
-	if err != nil {
-		log.Fatalln(err)
-	}
-	log.Println("--- Finish reading groups information. ---")
 
 	for message := range bot.Messages {
+		resp, err := http.Get("https://raw.githubusercontent.com/livc/GroupHub_Bot/master/groups.json")
+		if err != nil {
+			log.Fatalln(err)
+		}
+		js, err := simplejson.NewFromReader(resp.Body)
+		if err != nil {
+			log.Fatalln(err)
+		}
+
 		log.Printf("--- new message ---")
 		log.Printf("Received a message from %s with the text: %s\n", message.Sender.Username, message.Text)
 		switch message.Text {
@@ -111,29 +111,7 @@ func messages() {
 							},
 						},
 				)
-			case "ACG":
-				deal(message, js)
-			case "软件":
-				deal(message, js)
-			case "科学上网":
-				deal(message, js)
-			case "linux":
-				deal(message, js)
-			case "社区":
-				deal(message, js)
-			case "Geek":
-				deal(message, js)
-			case "编程":
-				deal(message, js)
-			case "城市":
-				deal(message, js)
-			case "书影音":
-				deal(message, js)
-			case "政治":
-				deal(message, js)
-			case "资源":
-				deal(message, js)
-			case "其他":
+			case "ACG", "软件", "科学上网", "linux", "社区", "Geek", "编程", "城市", "书影音", "政治", "资源", "其他":
 				deal(message, js)
 		}
 	}
