@@ -65,6 +65,9 @@
         }
     ], 
     "ACG": [
+		{
+			"TEXT": "W1RIRSBJRE9MTUBTVEVSXShodHRwczovL3RlbGVncmFtLm1lL2pvaW5jaGF0L0NYWm5ud2Z2aUI2U0NnUDJYNVR2amcp"
+		},
         {
             "TEXT": "IOS4gOi1t+adpeeOqeeLvOS6uiBAY253b2xm"
         }, 
@@ -383,6 +386,9 @@
         {
             "TEXT": "a2luZGxl5Lit5paH5ZyIIEBraW5kbGV6aA=="
         }, 
+		{
+			"TEXT": "W1Jvb20gMTMzOF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DZkpZSlRfdldBMHZPaWxfZS1zT3N3KQ=="
+		},
         {
             "TEXT": "W+iAs+acuuiuqOiuuue7hF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9CT2F5Y2doNDRUS214UXBWT3JIUHJBKQ=="
         }, 
@@ -565,7 +571,7 @@
             "TEXT": "RG9ja2VyIFR1dG9yaWFsIEBkb2NrZXJ0dXRvcmlhbA=="
         }, 
         {
-            "TEXT": "V29yZFByZXNz56uZ6ZW/5Lqk5rWB576kIEB3b3JkcHJlc3NcX2NoaW5h"
+            "TEXT": "5Liq5Lq65Y2a5a6i56uZ6ZW/5Lqk5rWB576kIEBibG9nQ04="
         }, 
         {
             "TEXT": "RmxhcnVt56uZ6ZW/576kIEBmbGFydW1DTg=="
