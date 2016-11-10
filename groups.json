@@ -1,24 +1,4 @@
 {
-    "政治": [
-        {
-            "TEXT": "W+e/u+WimeaUv+ayu+OAgeekvuS8muiuqOiuuuWIhue+pF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9CR29pTlR2LWx2azhBNWRaa1BuRm53KQ=="
-        }, 
-        {
-            "TEXT": "W+Wkp+mZuOaUv+ayu+awkeeUn+ingOWvn10oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DZUd5MXp6QUNjWDd5TzVQZ0NDZXdnKQ=="
-        }, 
-        {
-            "TEXT": "W+mWi+a6kOm7g+S/hOWFseeVnOmgheebrl0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9EV295eWtESUZyNW9ZS1lsUG5nakN3KQ=="
-        }, 
-        {
-            "TEXT": "W+WPjeWFseaKgOihk+e+pF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9EV295eWo4OGJpYkMtcDY4MW1zcldnKQ=="
-        }, 
-        {
-            "TEXT": "W1J1dHVybiBUbyBSZXZvbHV0aW9uXShodHRwczovL3RlbGVncmFtLm1lL2pvaW5jaGF0L0RXb3l5ajhDY2hlN3pmSzFPQmhXNUEp"
-        }, 
-        {
-            "TEXT": "W+W+t+i1m+WFrOWbrV0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DcDkxOWowa1hLeHluYVVic05mZnFBKQ=="
-        }
-    ], 
     "社区": [
         {
             "TEXT": "W+WbvuivneWkqeS4i10oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9BcDdRX3p2RVhYNDh3aXhIYnRnNzlBKQ=="
@@ -398,6 +378,9 @@
         }, 
         {
             "TEXT": "W+aKleelqOS4k+eUqOe+pF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9CT2F5Y2tCVTVMLXIzcG1IZTF0eVVRKQ=="
+        }, 
+        {
+            "TEXT": "W+aKkemDgeeXh+S8muiwiOWwj+e7hF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9Cc2N5amduVHJPbmZvYVEyWVM1dUNRKQ=="
         }
     ], 
     "linux": [
@@ -498,6 +481,26 @@
         }, 
         {
             "TEXT": "W+S5puiZq10oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DcDkxOWo1SHR0M05zcFBpb3gzTDBRKQ=="
+        }
+    ], 
+    "政治": [
+        {
+            "TEXT": "W+e/u+WimeaUv+ayu+OAgeekvuS8muiuqOiuuuWIhue+pF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9CR29pTlR2LWx2azhBNWRaa1BuRm53KQ=="
+        }, 
+        {
+            "TEXT": "W+Wkp+mZuOaUv+ayu+awkeeUn+ingOWvn10oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DZUd5MXp6QUNjWDd5TzVQZ0NDZXdnKQ=="
+        }, 
+        {
+            "TEXT": "W+mWi+a6kOm7g+S/hOWFseeVnOmgheebrl0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9EV295eWtESUZyNW9ZS1lsUG5nakN3KQ=="
+        }, 
+        {
+            "TEXT": "W+WPjeWFseaKgOihk+e+pF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9EV295eWo4OGJpYkMtcDY4MW1zcldnKQ=="
+        }, 
+        {
+            "TEXT": "W1J1dHVybiBUbyBSZXZvbHV0aW9uXShodHRwczovL3RlbGVncmFtLm1lL2pvaW5jaGF0L0RXb3l5ajhDY2hlN3pmSzFPQmhXNUEp"
+        }, 
+        {
+            "TEXT": "W+W+t+i1m+WFrOWbrV0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DcDkxOWowa1hLeHluYVVic05mZnFBKQ=="
         }
     ], 
     "城市": [
