@@ -1,4 +1,24 @@
 {
+    "政治": [
+        {
+            "TEXT": "W+e/u+WimeaUv+ayu+OAgeekvuS8muiuqOiuuuWIhue+pF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9CR29pTlR2LWx2azhBNWRaa1BuRm53KQ=="
+        }, 
+        {
+            "TEXT": "W+Wkp+mZuOaUv+ayu+awkeeUn+ingOWvn10oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DZUd5MXp6QUNjWDd5TzVQZ0NDZXdnKQ=="
+        }, 
+        {
+            "TEXT": "W+mWi+a6kOm7g+S/hOWFseeVnOmgheebrl0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9EV295eWtESUZyNW9ZS1lsUG5nakN3KQ=="
+        }, 
+        {
+            "TEXT": "W+WPjeWFseaKgOihk+e+pF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9EV295eWo4OGJpYkMtcDY4MW1zcldnKQ=="
+        }, 
+        {
+            "TEXT": "W1J1dHVybiBUbyBSZXZvbHV0aW9uXShodHRwczovL3RlbGVncmFtLm1lL2pvaW5jaGF0L0RXb3l5ajhDY2hlN3pmSzFPQmhXNUEp"
+        }, 
+        {
+            "TEXT": "W+W+t+i1m+WFrOWbrV0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DcDkxOWowa1hLeHluYVVic05mZnFBKQ=="
+        }
+    ], 
     "社区": [
         {
             "TEXT": "W+WbvuivneWkqeS4i10oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9BcDdRX3p2RVhYNDh3aXhIYnRnNzlBKQ=="
@@ -320,12 +340,6 @@
             "TEXT": "6KCi5Za15pel6K6wIEBjaHVubQ=="
         }, 
         {
-            "TEXT": "QGppcWlyZW4g5py65Zmo5Lq6576k"
-        }, 
-        {
-            "TEXT": "QG1pYW9taWFvMDAg6LS057q4576k"
-        }, 
-        {
             "TEXT": "W+eUteaKpeacuuWZqOS6uuW6lOeUqOS6pOa1gV0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9BdFp2R2ozRU5wRkNjV29Ic3llWG1RKQ=="
         }, 
         {
@@ -363,6 +377,12 @@
         }, 
         {
             "TEXT": "5rC46L+c57yF5oCAOTFZdW4gQGFmZnl1bg=="
+        }, 
+        {
+            "TEXT": "6LS057q4576kIEBtaWFvbWlhbzAw"
+        }, 
+        {
+            "TEXT": "5py65Zmo5Lq6576kIEBqaXFpcmVu"
         }
     ], 
     "linux": [
@@ -468,26 +488,6 @@
             "TEXT": "UHJpdmF0ZSBUcmFja2Vy56uZ54K56LWE6K6v77yM5Y6f55uY5ZKMUmVtdXjniLHlpb3ogIXkuqTmtYHvvIzljovliLblj4rlhbblroPnm7jlhbPmioDmnK/orqjorrrjgIIgQEhEQml0cw=="
         }
     ], 
-    "政治": [
-        {
-            "TEXT": "W+e/u+WimeaUv+ayu+OAgeekvuS8muiuqOiuuuWIhue+pF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9CR29pTlR2LWx2azhBNWRaa1BuRm53KQ=="
-        }, 
-        {
-            "TEXT": "W+Wkp+mZuOaUv+ayu+awkeeUn+ingOWvn10oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DZUd5MXp6QUNjWDd5TzVQZ0NDZXdnKQ=="
-        }, 
-        {
-            "TEXT": "W+mWi+a6kOm7g+S/hOWFseeVnOmgheebrl0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9EV295eWtESUZyNW9ZS1lsUG5nakN3KQ=="
-        }, 
-        {
-            "TEXT": "W+WPjeWFseaKgOihk+e+pF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9EV295eWo4OGJpYkMtcDY4MW1zcldnKQ=="
-        }, 
-        {
-            "TEXT": "W1J1dHVybiBUbyBSZXZvbHV0aW9uXShodHRwczovL3RlbGVncmFtLm1lL2pvaW5jaGF0L0RXb3l5ajhDY2hlN3pmSzFPQmhXNUEp"
-        }, 
-        {
-            "TEXT": "W+W+t+i1m+WFrOWbrV0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DcDkxOWowa1hLeHluYVVic05mZnFBKQ=="
-        }
-    ], 
     "城市": [
         {
             "TEXT": "W+S4iua1t10oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DVWRIdWdhQll0V0ZPcWFlVHVkMkV3KQ=="
@@ -546,7 +546,7 @@
             "TEXT": "W+mjmuWbvumikemBkyDmlLbotLnop4bpopHlhY3otLnkuIvovb1dKGh0dHBzOi8vdGVsZWdyYW0ubWUvam9pbmNoYXQvRGJKbFJVRTMwd2h6dVRkbnlnSnNsZyk="
         }, 
         {
-            "TEXT": "5ZOU5ZOp56aP5YipIOavj+WkqeabtOaWsOS4gOS4quWFjei0uei1hOa6kO+8jOeZvuW6pue9keebmOWSjE9uZWRyaXZl55u06ZO+5LiL6L2944CCQGJpbGlmdWxp"
+            "TEXT": "5ZOU5ZOp56aP5YipIOavj+WkqeabtOaWsOS4gOS4quWFjei0uei1hOa6kO+8jOeZvuW6pue9keebmOWSjE9uZWRyaXZl55u06ZO+5LiL6L29IEBiaWxpZnVsaQ=="
         }
     ], 
     "软件": [
