@@ -33,9 +33,6 @@
             "TEXT": "5pW45a2X5qyK5YipIERpZ2l0YWwgcmlnaHRzIEBkaWdpdGFsXF9yaWdodHM="
         }, 
         {
-            "TEXT": "572R57uc5LyY5oOg5L+h5oGv5YiG5LqrIEBjblxfY291cG9u"
-        }, 
-        {
             "TEXT": "W+enkeaKgOWciF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9CcFA3YWdNQm5sR1Q1MllabW8zaGJ3KQ=="
         }, 
         {
@@ -220,6 +217,9 @@
         }, 
         {
             "TEXT": "W0pBVkFdKGh0dHBzOi8vdGVsZWdyYW0ubWUvam9pbmNoYXQvQlJ5Y0xUOEFSeDB4Tm5vUE0ya2tadyk="
+        }, 
+        {
+            "TEXT": "TGFyYXZlbCDkuK3mlofnvqTnu4QgQGxhcmF2ZWxcX2NoaW5hXF9ncm91cA=="
         }
     ], 
     "Geek": [
@@ -456,6 +456,9 @@
         }, 
         {
             "TEXT": "W1NuaXBhc3Rl77ya5oiq5Zu+K+i0tOWbvl0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9CR3lXd0Q5Wk5xRTNwTGJoWGMtVmdRKQ=="
+        }, 
+        {
+            "TEXT": "TGluZWFnZU9T5Lit5paH576k57uEIEBsYXJhdmVsXF9jaGluYVxfZ3JvdXA="
         }
     ]
 }
