@@ -1,21 +1,4 @@
 {
-    "政治": [
-        {
-            "TEXT": "W+Wkp+mZuOaUv+ayu+awkeeUn+ingOWvn10oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DZUd5MXp6QUNjWDd5TzVQZ0NDZXdnKQ=="
-        }, 
-        {
-            "TEXT": "W+mWi+a6kOm7g+S/hOWFseeVnOmgheebrl0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9EV295eWtESUZyNW9ZS1lsUG5nakN3KQ=="
-        }, 
-        {
-            "TEXT": "W+WPjeWFseaKgOihk+e+pF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9EV295eWo4OGJpYkMtcDY4MW1zcldnKQ=="
-        }, 
-        {
-            "TEXT": "W1J1dHVybiBUbyBSZXZvbHV0aW9uXShodHRwczovL3RlbGVncmFtLm1lL2pvaW5jaGF0L0RXb3l5ajhDY2hlN3pmSzFPQmhXNUEp"
-        }, 
-        {
-            "TEXT": "W+W+t+i1m+WFrOWbrV0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DcDkxOWowa1hLeHluYVVic05mZnFBKQ=="
-        }
-    ], 
     "社区": [
         {
             "TEXT": "W+WbvuivneWkqeS4i10oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9BcDdRX3p2RVhYNDh3aXhIYnRnNzlBKQ=="
@@ -329,6 +312,9 @@
         }, 
         {
             "TEXT": "6auY6ICDKOefpeivhinkuqTmtYHnvqQgQEdhb1xfS2Fv"
+        }, 
+        {
+            "TEXT": "5a6g54mp54ix5aW96ICFIEBQZXRMb3ZlcnNDTg=="
         }
     ], 
     "linux": [
@@ -399,6 +385,23 @@
         }, 
         {
             "TEXT": "TXVzaWM0VSBAbXVzaWM0dTExMA=="
+        }
+    ], 
+    "政治": [
+        {
+            "TEXT": "W+Wkp+mZuOaUv+ayu+awkeeUn+ingOWvn10oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DZUd5MXp6QUNjWDd5TzVQZ0NDZXdnKQ=="
+        }, 
+        {
+            "TEXT": "W+mWi+a6kOm7g+S/hOWFseeVnOmgheebrl0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9EV295eWtESUZyNW9ZS1lsUG5nakN3KQ=="
+        }, 
+        {
+            "TEXT": "W+WPjeWFseaKgOihk+e+pF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9EV295eWo4OGJpYkMtcDY4MW1zcldnKQ=="
+        }, 
+        {
+            "TEXT": "W1J1dHVybiBUbyBSZXZvbHV0aW9uXShodHRwczovL3RlbGVncmFtLm1lL2pvaW5jaGF0L0RXb3l5ajhDY2hlN3pmSzFPQmhXNUEp"
+        }, 
+        {
+            "TEXT": "W+W+t+i1m+WFrOWbrV0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DcDkxOWowa1hLeHluYVVic05mZnFBKQ=="
         }
     ], 
     "城市": [
@@ -475,6 +478,9 @@
         }, 
         {
             "TEXT": "W+WTlOWTqeemj+WIqV0oaHR0cHM6Ly90Lm1lL2pvaW5jaGF0L0FBQUFBRC1jem5pRDNmWm00RkhBV3cp"
+        }, 
+        {
+            "TEXT": "VHVtYmxy6Ieq5Yqp6aSQIEB0dW1iZ28="
         }
     ], 
     "软件": [
@@ -531,6 +537,9 @@
         }, 
         {
             "TEXT": "QGxjcGFwcA=="
+        }, 
+        {
+            "TEXT": "QU9TUOiuqOiuuiBAYW5kcm9pZG9wZW5zb3VyY2Vwcm9qZWN0"
         }
     ]
 }
