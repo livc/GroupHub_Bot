@@ -17,27 +17,27 @@ GroupHub交流群：[GroupHub_Chat](https://telegram.me/GroupHub_Chat)
 
 群组的收录更新有两种方法：
 
-- 直接将群组名、邀请链接、讨论主题发给[@livc95](https://telegram.me/livc95)。
+- 直接将群组名、邀请链接、讨论主题发到 GroupHub 交流群（[GroupHub_Chat](https://telegram.me/GroupHub_Chat)）并[@livc95](https://telegram.me/livc95)。
 - 在 [groups.json](https://github.com/livc/GroupHub_Bot/blob/master/groups.json) 中对应分类直接添加群组信息，然后发起Pull request。
 
 **※** 第二种方法提交需注意：
 
 - 超级群组直接将群组信息编码为BASE64，然后添加到json对应分类后面即可，**内容中有下划线的前面需要加反斜线“\”解析**（这是因为GroupHub_bot 采用markdown格式传输信息，下划线会被telegram识别为斜体的标识符），如：
 
-	wordpress站长交流群 @wordpress\\_china
-	编码后为d29yZHByZXNz56uZ6ZW/5Lqk5rWB576kIEB3b3JkcHJlc3NcX2NoaW5h
-	于是在对应分类后面添加
-	"TEXT": "d29yZHByZXNz56uZ6ZW/5Lqk5rWB576kIEB3b3JkcHJlc3NcX2NoaW5h"
+ wordpress站长交流群 @wordpress\\_china
+ 编码后为d29yZHByZXNz56uZ6ZW/5Lqk5rWB576kIEB3b3JkcHJlc3NcX2NoaW5h
+ 于是在对应分类后面添加
+ "TEXT": "d29yZHByZXNz56uZ6ZW/5Lqk5rWB576kIEB3b3JkcHJlc3NcX2NoaW5h"
 
 - 非超级群组（也就是没有@xxx 名字的群组）需要提交为markdown格式的BASE64编码，即 \[群组名\]\(邀请链接\)，链接中如有下划线不需要解析如：
 
-	\[V2EX后花园\]\(https://telegram.me/joinchat/Bg3MFjv5FgYrWI0Wq_HDo8Q)
-	编码后为
-	W1YyRVjlkI7oirHlm61dKGh0dHBzOi8vdGVsZWdyYW0ubWUvam9pbmNoYXQvQmczTUZqdjVGZ1lyV0kwV3FfSERvOFEp
-	于是在对应分类后面添加
-	"TEXT": "W1YyRVjlkI7oirHlm61dKGh0dHBzOi8vdGVsZWdyYW0ubWUvam9pbmNoYXQvQmczTUZqdjVGZ1lyV0kwV3FfSERvOFEp"
-                                        
-                                     
+ \[V2EX后花园\]\(https://telegram.me/joinchat/Bg3MFjv5FgYrWI0Wq_HDo8Q)
+ 编码后为
+ W1YyRVjlkI7oirHlm61dKGh0dHBzOi8vdGVsZWdyYW0ubWUvam9pbmNoYXQvQmczTUZqdjVGZ1lyV0kwV3FfSERvOFEp
+ 于是在对应分类后面添加
+ "TEXT": "W1YyRVjlkI7oirHlm61dKGh0dHBzOi8vdGVsZWdyYW0ubWUvam9pbmNoYXQvQmczTUZqdjVGZ1lyV0kwV3FfSERvOFEp"
+ ​                                      
+ ​                                   
 ## add.py 脚本使用方法
 add.py 是一个在向本地 groups.json 文件中插入新群组的脚本，使用时需将 add.py 和 groups.json 放在同一目录。
 
