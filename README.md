@@ -10,8 +10,6 @@ GroupHub交流群：[GroupHub_Chat](https://telegram.me/GroupHub_Chat)
 
 广播站（新收录群组会在此广播）：[@GroupHub](https://telegram.me/GroupHub)
 
-管理员：[@livc95](https://telegram.me/livc95)
-
 ## 群组收录、更新
 所有已收录的群组存储在 [groups.json](https://github.com/livc/GroupHub_Bot/blob/master/groups.json) 中，采用**BASE64**进行简单混淆。
 
