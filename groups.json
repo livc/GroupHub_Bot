@@ -1,4 +1,24 @@
 {
+    "政治": [
+        {
+            "TEXT": "W+Wkp+mZuOaUv+ayu+awkeeUn+ingOWvn10oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DZUd5MXp6QUNjWDd5TzVQZ0NDZXdnKQ=="
+        }, 
+        {
+            "TEXT": "W+mWi+a6kOm7g+S/hOWFseeVnOmgheebrl0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9EV295eWtESUZyNW9ZS1lsUG5nakN3KQ=="
+        }, 
+        {
+            "TEXT": "W+WPjeWFseaKgOihk+e+pF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9EV295eWo4OGJpYkMtcDY4MW1zcldnKQ=="
+        }, 
+        {
+            "TEXT": "W1J1dHVybiBUbyBSZXZvbHV0aW9uXShodHRwczovL3RlbGVncmFtLm1lL2pvaW5jaGF0L0RXb3l5ajhDY2hlN3pmSzFPQmhXNUEp"
+        }, 
+        {
+            "TEXT": "W+iHqueUseWFrOWbrV0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DcDkxOWowa1hLeHluYVVic05mZnFBKQ"
+        }, 
+        {
+            "TEXT": "6Z2S5bCR5bm05rCR5Li75YWz5rOo57uEIEB3ZXZvaWNlNGZ1dHVyZQ=="
+        }
+    ], 
     "社区": [
         {
             "TEXT": "W+WbvuivneWkqeS4i10oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9BcDdRX3p2RVhYNDh3aXhIYnRnNzlBKQ=="
@@ -462,26 +482,6 @@
             "TEXT": "6Jm+57Gz6Z+z5LmQIEBYaWFtaU11c2lj"
         }
     ], 
-    "政治": [
-        {
-            "TEXT": "W+Wkp+mZuOaUv+ayu+awkeeUn+ingOWvn10oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DZUd5MXp6QUNjWDd5TzVQZ0NDZXdnKQ=="
-        }, 
-        {
-            "TEXT": "W+mWi+a6kOm7g+S/hOWFseeVnOmgheebrl0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9EV295eWtESUZyNW9ZS1lsUG5nakN3KQ=="
-        }, 
-        {
-            "TEXT": "W+WPjeWFseaKgOihk+e+pF0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9EV295eWo4OGJpYkMtcDY4MW1zcldnKQ=="
-        }, 
-        {
-            "TEXT": "W1J1dHVybiBUbyBSZXZvbHV0aW9uXShodHRwczovL3RlbGVncmFtLm1lL2pvaW5jaGF0L0RXb3l5ajhDY2hlN3pmSzFPQmhXNUEp"
-        }, 
-        {
-            "TEXT": "W+iHqueUseWFrOWbrV0oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DcDkxOWowa1hLeHluYVVic05mZnFBKQ"
-        }, 
-        {
-            "TEXT": "6Z2S5bCR5bm05rCR5Li75YWz5rOo57uEIEB3ZXZvaWNlNGZ1dHVyZQ=="
-        }
-    ], 
     "城市": [
         {
             "TEXT": "W+S4iua1t10oaHR0cHM6Ly90ZWxlZ3JhbS5tZS9qb2luY2hhdC9DVWRIdWdhQll0V0ZPcWFlVHVkMkV3KQ=="
@@ -577,6 +577,9 @@
         }, 
         {
             "TEXT": "6K+N5bqT6LWE5rqQ5YiG5LqrR29vZ2xlIEBkaWN0c2hhcmU="
+        }, 
+        {
+            "TEXT": "W+izh+a6kOWIhuS6q+e+pF0oaHR0cHM6Ly90Lm1lL2pvaW5jaGF0L0dEOXFNMEk0TkY4UmNlSTNUcDVrbkEp"
         }
     ], 
     "软件": [
