@@ -92,7 +92,7 @@ func messages() {
 						"Bot: @GroupHub_bot\n"+
 						"广播站: @GroupHub\n"+
 						"交流群: @GroupHub_Chat\n"+
-						"群组收录更新: @livc95 或 https://github.com/livc/GroupHub_Bot\n"+
+						"群组收录更新: 将【群组名、分类、链接】发送到https://github.com/livc/GroupHub_Bot\n"+
 						"BUG提交/功能建议: https://github.com/livc/GroupHub_Bot/issues\n\n"+
 						"/groups 查询群组"
 				bot.SendMessage(message.Chat, sta, nil)
